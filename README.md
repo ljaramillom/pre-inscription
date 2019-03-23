@@ -16,8 +16,12 @@ pre-inscription
 - **Ejecución de la aplicación**
 
 1. Realizar ```npm install``` para descargar las librerías
-2. Ejecutar el comando como se muestra en el siguiente ejemplo
-
+2. Ejecutar el siguiente comando para visualizar el listado de los cursos en consola
+```
+node app
+```
+3. Ejecutar el siguiente comando para realizar la inscripcion a un curso (Ejemplo)
 ```
 node app inscribir -i=2 -n=Lizet -c=98332322
 ```
+4. Abrir el navegador con la siguiente dirección **http://localhost:3000**
