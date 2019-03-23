@@ -15,8 +15,8 @@ pre-inscription
 
 - **Ejecución de la aplicación**
 
-1. Realizar ```npm install``` para las librerías
-2. Ejemplo:
+1. Realizar ```npm install``` para descargar las librerías
+2. Ejecutar el comando como se muestra en el siguiente ejemplo
 
 ```
 node app inscribir -i=2 -n=Lizet -c=98332322
