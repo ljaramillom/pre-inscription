@@ -1,0 +1,16 @@
+{
+  "name": "pre-inscription",
+  "version": "1.0.0",
+  "description": "Show results in the browser of the pre-registration of a student's courses",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lizet Jaramillo",
+  "license": "ISC"
+}
